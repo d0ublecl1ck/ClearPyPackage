@@ -1,1 +1,1 @@
-"# ClearPyPackage" 
+本项目基于PyQt5以及virtualenv对Python包管理进行可视化管理
